@@ -1,11 +1,16 @@
 {
-  "hash": "5aa7d9e3da9138bedf8d40909b0c1109",
+  "hash": "1f4c3ceef7029e5798823d4c3d69d54e",
   "result": {
-    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2023-03-07\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\nThis is a post with executable code.\nlive로 업데이트가 되는가 \n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n\n[1,2,3,4,5]\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n[1, 2, 3, 4, 5]\n```\n:::\n:::\n\n\n",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2023-03-07\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n간단한 시각화를 해봅시다\n\n\n::: {.cell}\n\n```{.python .cell-code}\nimport matplotlib.pyplot as plt\n\n# Example data\nx = [1, 2, 3, 4, 5]\ny = [10, 8, 6, 4, 2]\n\n# Create scatter plot\nplt.scatter(x, y)\n\n# Add labels and title\nplt.xlabel('X axis label')\nplt.ylabel('Y axis label')\nplt.title('Simple Scatter Plot')\n\n# Show plot\nplt.show()\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\nPython과 R을 넘나들며 코딩이 가능합니다.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.3.6      ✔ purrr   0.3.4 \n✔ tibble  3.1.8      ✔ dplyr   1.0.10\n✔ tidyr   1.2.0      ✔ stringr 1.4.1 \n✔ readr   2.1.2      ✔ forcats 0.5.2 \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n```\n:::\n\n```{.r .cell-code}\na <- 5\nb <- 10\n\nlibrary(ggplot2)\nqplot(1:10)\n```\n\n::: {.cell-output .cell-output-stderr}\n```\n`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.\n```\n:::\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-3.png){width=672}\n:::\n:::",
     "supporting": [
       "index_files"
     ],
-    "filters": [],
-    "includes": {}
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
   }
 }
