@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "데이터 마이닝을 위한 블로그!",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMar 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Diamonds dashboard\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nJiho Yeo\n\n\nMar 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMar 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nMar 4, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,47 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/test.html",
+    "href": "posts/test.html",
+    "title": "💍 Diamonds dashboard",
+    "section": "",
+    "text": "::: panel-tabset ## Plots"
+  },
+  {
+    "objectID": "posts/test.html#summaries",
+    "href": "posts/test.html#summaries",
+    "title": "💍 Diamonds dashboard",
+    "section": "Summaries",
+    "text": "Summaries\n\n\n\n\n\n\n  \n  \n    \n      \n      Fair\n      Good\n      Very Good\n      Premium\n      Ideal\n    \n  \n  \n    \n      Price\n    \n    Mean\n$4,359\n$3,929\n$3,982\n$4,584\n$3,458\n    Median\n$3,282\n$3,050\n$2,648\n$3,185\n$1,810\n    Sd\n$3,560\n$3,682\n$3,936\n$4,349\n$3,808\n    IQR\n$3,155\n$3,883\n$4,461\n$5,250\n$3,800\n    \n      Carat\n    \n    Mean\n1.05\n0.85\n0.81\n0.89\n0.70\n    Median\n1.00\n0.82\n0.71\n0.86\n0.54\n    Sd\n0.52\n0.45\n0.46\n0.52\n0.43\n    IQR\n0.50\n0.51\n0.61\n0.79\n0.66"
+  },
+  {
+    "objectID": "posts/test.html#data",
+    "href": "posts/test.html#data",
+    "title": "💍 Diamonds dashboard",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "posts/dashboard_example/index.html",
+    "href": "posts/dashboard_example/index.html",
+    "title": "Diamonds dashboard",
+    "section": "",
+    "text": "::: panel-tabset ## Plots"
+  },
+  {
+    "objectID": "posts/dashboard_example/index.html#summaries",
+    "href": "posts/dashboard_example/index.html#summaries",
+    "title": "Diamonds dashboard",
+    "section": "Summaries",
+    "text": "Summaries\n\n\n\n\n\n\n  \n  \n    \n      \n      Fair\n      Good\n      Very Good\n      Premium\n      Ideal\n    \n  \n  \n    \n      Price\n    \n    Mean\n$4,359\n$3,929\n$3,982\n$4,584\n$3,458\n    Median\n$3,282\n$3,050\n$2,648\n$3,185\n$1,810\n    Sd\n$3,560\n$3,682\n$3,936\n$4,349\n$3,808\n    IQR\n$3,155\n$3,883\n$4,461\n$5,250\n$3,800\n    \n      Carat\n    \n    Mean\n1.05\n0.85\n0.81\n0.89\n0.70\n    Median\n1.00\n0.82\n0.71\n0.86\n0.54\n    Sd\n0.52\n0.45\n0.46\n0.52\n0.43\n    IQR\n0.50\n0.51\n0.61\n0.79\n0.66"
+  },
+  {
+    "objectID": "posts/dashboard_example/index.html#data",
+    "href": "posts/dashboard_example/index.html#data",
+    "title": "Diamonds dashboard",
+    "section": "Data",
+    "text": "Data"
   }
 ]

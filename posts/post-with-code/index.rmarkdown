@@ -1,0 +1,46 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2023-03-07"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+
+This is a post with executable code.
+
+간단한 시각화를 해봅시다
+
+
+```{python}
+import matplotlib.pyplot as plt
+
+# Example data
+x = [1, 2, 3, 4, 5]
+y = [10, 8, 6, 4, 2]
+
+# Create scatter plot
+plt.scatter(x, y)
+
+# Add labels and title
+plt.xlabel('X axis label')
+plt.ylabel('Y axis label')
+plt.title('Simple Scatter Plot')
+
+# Show plot
+plt.show()
+
+```
+
+
+Python과 R을 넘나들며 코딩이 가능합니다.
+
+
+```{r}
+library(tidyverse)
+a <- 5
+b <- 10
+
+library(ggplot2)
+qplot(1:10)
+```
