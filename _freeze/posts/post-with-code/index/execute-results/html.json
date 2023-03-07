@@ -1,0 +1,11 @@
+{
+  "hash": "5aa7d9e3da9138bedf8d40909b0c1109",
+  "result": {
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2023-03-07\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\nThis is a post with executable code.\nlive로 업데이트가 되는가 \n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n\n[1,2,3,4,5]\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n[1, 2, 3, 4, 5]\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
