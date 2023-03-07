@@ -1,5 +1,5 @@
 ---
-title: "new_blog"
+title: "데이터 마이닝을 위한 블로그!"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,5 +10,7 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+### 이곳에 Post가 나열됩니다. 
 
 Index에는 무엇을 써야하나
