@@ -8,7 +8,8 @@ image: "image.jpg"
 
 This is a post with executable code.
 
-간단한 시각화를 해봅시다
+간단한 시각화를 해봅시다. 
+Render가 계속 가능. 
 
 ```{python}
 import matplotlib.pyplot as plt
@@ -40,3 +41,6 @@ b <- 10
 library(ggplot2)
 qplot(1:10)
 ```
+
+
+
